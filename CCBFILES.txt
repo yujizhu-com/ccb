@@ -1,0 +1,9 @@
+./AdNativeFacebookGameLaunch.red
+./AdNativeUIFacebookAdChoice.red
+./BulldogGameOverIconAdCell.red
+./BulldogGameOverIconAdLayer.red
+./BulldogMapIconAdLayer.red
+./BulldogPrivacyPromptLayer.red
+./adchoices_1.red
+./adchoices_2.red
+./wood2D_menuLayer.red
